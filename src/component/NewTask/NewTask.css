@@ -1,0 +1,13 @@
+.new-task {
+    height: 30px;
+    display: flex;
+}
+
+.button-add {
+  width: auto;
+}
+
+input {
+  border: 1px solid rgba(0, 0, 0, 0.349);
+  width: 150px;
+}
